@@ -26,10 +26,6 @@ Data is streamed to connected clients using WebSocket on port 81.
 3. Open Serial Monitor for debug logs.
 4. Connect a WebSocket client to `ws://<ESP32_IP>:81` to receive JSON data.
 
-## 🖼️ Wiring Diagram
-
-![Wiring](docs/images/wiring_diagram.jpg)
-
-## 📄 License
+## License
 
 MIT License
